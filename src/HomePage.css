@@ -1,0 +1,33 @@
+.homepage-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.homepage-title {
+  font-size: 32px;
+  color: #333;
+}
+
+.homepage-description {
+  font-size: 18px;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.homepage-links {
+  display: flex;
+  justify-content: center;
+}
+
+.homepage-link {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.homepage-link:hover {
+  background-color: #0056b3;
+}
